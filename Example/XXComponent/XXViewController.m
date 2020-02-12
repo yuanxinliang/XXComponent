@@ -7,7 +7,7 @@
 //
 
 #import "XXViewController.h"
-
+#import <XXComponent/YYDateFormatter.h>
 @interface XXViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"%@", [YYDateFormatter log]);
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,0 +1,21 @@
+{
+  "name": "XXComponent",
+  "version": "1",
+  "summary": "A short description of XXComponent01.",
+  "homepage": "https://github.com/yuanxinliang/XXComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanxinliang": "306619887@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanxinliang/XXComponent.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXComponent/Classes/**/*"
+}
